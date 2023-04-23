@@ -14,6 +14,13 @@
   <img align="top" src="https://github-readme-stats-cbpjynaig-gxiang314.vercel.app/api/top-langs/?username=GXiang314&langs_count=8&layout=compact&theme=radical&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,hack,json,example,lock" />
 </a>
 
+**Wakatime :**
+
+<a href="#">
+  <img align="top" src="https://github-readme-stats-cbpjynaig-gxiang314.vercel.app/api/wakatime/?username=GXiang314" />
+</a>
+
+
 
 **Skillset :**
 
