@@ -7,18 +7,13 @@
 
 **Stats :**
 
-<a href="#">
-  <img align="top" src="https://github-readme-stats-cbpjynaig-gxiang314.vercel.app/api?username=GXiang314&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-</a>
-<a href="#">
-  <img align="top" src="https://github-readme-stats-cbpjynaig-gxiang314.vercel.app/api/top-langs/?username=GXiang314&langs_count=8&layout=compact&theme=radical&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,hack,json,example,lock" />
-</a>
+[![GXiang's GitHub stats](https://github-readme-stats-cbpjynaig-gxiang314.vercel.app/api?username=GXiang314&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](#)
+
+[![GXiang's Top Langs](https://github-readme-stats-cbpjynaig-gxiang314.vercel.app/api/top-langs?username=GXiang314&langs_count=8&layout=compact&theme=radical&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,hack,json,example,lock)](#)
 
 **Wakatime :**
 
-<a href="#">
-  <img align="top" src="https://github-readme-stats-cbpjynaig-gxiang314.vercel.app/api/wakatime/?username=GXiang314" />
-</a>
+[![GXiang's WakaTime](https://github-readme-stats-cbpjynaig-gxiang314.vercel.app/api/wakatime/?username=GXiang314)](#)
 
 
 
