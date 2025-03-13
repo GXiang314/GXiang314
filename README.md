@@ -13,38 +13,7 @@
 
 **Skillset :**
 
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Node](https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Php](https://img.shields.io/badge/-Php-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
-[![Typescript](https://img.shields.io/badge/-Typescript-0088CC?style=flat&logo=Typescript&logoColor=white)](https://www.php.net/)
-
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-FF9800?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![JQuery](https://img.shields.io/badge/-JQuery-8BC34A?style=flat&logo=jQuery&logoColor=ffffff)](https://jquery.com/)
-[![NPM](https://img.shields.io/badge/-NPM-cb3837?style=flat&logo=npm&logoColor=white)](https://npmjs.com/)
-
-[![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet)](https://dotnet.microsoft.com/)
-[![Express.js](https://img.shields.io/badge/-Express.js-404D59?logo=express)](https://expressjs.com/)
-[![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)](https://laravel.com/)
-
-[![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
-[![Apache Jmeter](https://img.shields.io/badge/-Apache%20Jmeter-D22128?logo=ApacheJmeter&logoColor=white)](https://jmeter.apache.org/)
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white)](https://www.figma.com/)
-[![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-
-[![IIS](https://img.shields.io/badge/-IIS-FFFFFF?style=flat&logo=microsoft&logoColor=blue)](https://learn.microsoft.com/en-us/iis/)
-[![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)](https://www.apache.org/)
-[![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=Nginx&logoColor=white)](https://nginx.org/)
-[![PM2](https://img.shields.io/badge/-PM2-2B037A?logo=PM2&logoColor=white)](https://pm2.io/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Skillset](https://skillicons.dev/icons?i=nestjs,vue,express,flask,laravel,dotnet,spring,prisma,sequelize,tailwind,pinia,cs,ts,js,py,java,php,postman,jest,nginx,docker,kubernetes,aws,gcp,mysql,postgres,redis,pnpm&perline=7)](https://skillicons.dev)
 
 
 <!--
