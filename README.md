@@ -4,7 +4,7 @@
 
 ### ⚙️ **Backend Engineer**
 
-📍 Currently studying National Taichung University of Science and Technology
+📍 Graduated in 2025 with a Bachelor’s degree in Information Management, National Taichung University of Science and Technology
 
 🌱 I believe in the power of continuous learning and strive to uplift others through mentorship and collaboration.
 
