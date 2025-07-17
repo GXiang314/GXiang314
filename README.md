@@ -1,7 +1,5 @@
 # 👋 Hey there, I'm Xiang
 
-![Visitor Count](https://profile-counter.glitch.me/GXiang314/count.svg)
-
 ### ⚙️ **Backend Engineer**
 
 📍 Graduated in 2025 with a Bachelor’s degree in Information Management, National Taichung University of Science and Technology
